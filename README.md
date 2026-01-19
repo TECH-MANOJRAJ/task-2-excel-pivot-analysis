@@ -1,4 +1,4 @@
-# 📊 Task 2 – Excel Pivot Table Analysis (Pro Level)
+# 📊 Task 2 – Excel Pivot Table Analysis 
 
 📌 Project Overview
 
